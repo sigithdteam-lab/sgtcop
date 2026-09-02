@@ -1,4 +1,4 @@
-sgtcop.py (Smart Security Monitor v2.0)
+sgtcopv2.py (Smart Security Monitor v2.0)
 
 1. Tujuan Utama
 
