@@ -1,4 +1,6 @@
 sgtcopv2.py (Smart Security Monitor v2.0)
+GNU General Public License v3.0
+Copyright (C) 2026 sigithdteam-lab
 
 1. Tujuan Utama
 
