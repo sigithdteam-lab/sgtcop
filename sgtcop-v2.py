@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # sgtcop.py - Smart Security Monitor dengan Self-Learning, ML, & VirusTotal
 # Enhanced Edition v2.0
-# sgthdteam-lab
+# Copyright (C) 2026 sigithdteam-lab
+# GNU General Public License v3.0
 
 import os
 import re
